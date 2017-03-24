@@ -1,3 +1,2 @@
 # Python-web
-Python Web Learning
-It is my first Web App.
+It is my first Web App.And it is written by Python.
